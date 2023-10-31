@@ -1,4 +1,5 @@
 Metamorphic Relation (MR), Source Input, Transformation of the input, Output Check
+
 "MR1: Repeat Consistency", "GET /resource/123", "Repeat GET /resource/123", "Both outputs should be identical"
 "MR2: Reverse Order Check", "GET /items?orderBy=asc", "GET /items?orderBy=desc", "Outputs should be in reverse order of each other"
 "MR3: Filtered Subset", "GET /items", "GET /items?filter=type:A", "Filtered output should be a subset of the unfiltered output"
