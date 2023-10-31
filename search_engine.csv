@@ -14,7 +14,7 @@
 "MR13: Negation Handling","'Apple'","Results about Apple Inc. or the fruit","Add negation: 'NOT Apple'","Results should exclude or minimize content related to Apple."
 "MR14: Domain-Specific Search","'site:wikipedia.org Mars'","Results from Wikipedia about Mars","Change domain: 'site:nasa.gov Mars'","Results should be from the respective domains."
 "MR15: Wildcard Handling","'App*'","Results on topics starting with 'App'","Use complete word: 'Apple'","Results should encompass topics related to words starting with 'App'."
-"MR16: Quote Handling","John F Kennedy","Results related to John F. Kennedy","Use quotes: "John F Kennedy","Results should prioritize exact matches within quotes."
+"MR16: Quote Handling","John F Kennedy","Results related to John F. Kennedy","Use quotes: John F Kennedy","Results should prioritize exact matches within quotes."
 "MR17: Location-Based Results","'Pizza near New York'","Pizza places in New York","Change location: 'Pizza near Chicago'","Results should adjust to respective locations."
 "MR18: Auto-Correction Feedback","'Applle'","Possible suggestion for 'Apple' or results related to typos","Correct spelling: 'Apple'","The incorrect spelling might suggest the correct one, with similar results."
 "MR19: Content Type Filter","'Apple' with filter 'Videos'","Video results related to Apple","Change filter: 'Images'","Results should vary based on the selected content type."
