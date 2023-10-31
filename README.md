@@ -1,5 +1,7 @@
 # metamorphic testing
 
+The examples are heuristics. These are generic Metamorphic Relations that might need adjustments to fit the specific context of your application. They provide a starting point for designing effective tests for web services, especially when the expected output is unknown or unpredictable. Remember that the "Initial Output" column is hypothetical and represents what the typical output might be based on the "Source Input", but in real applications, the actual output might vary based on various factors and the current state of the system.
+
 reference:
 
 Metamorphic Testing and Its Applications
