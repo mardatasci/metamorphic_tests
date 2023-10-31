@@ -1,5 +1,3 @@
-# Metamorphic Relations for REST API testing
-
 Metamorphic Relation (MR), Source Input, Transformation of the input, Output Check
 "MR1: Equivalence", "GET /data/deviceA", "Repeat the request", "Both responses should be equivalent"
 "MR2: Equality", "GET /data/deviceA/configurations?orderBy=timestamp", "Repeat the request", "Both responses should be equal"
